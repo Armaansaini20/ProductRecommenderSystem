@@ -1,4 +1,4 @@
-Ikarus3D — Product Recommender
+Product Recommender System
 
 This project demonstrates a product recommender system built using:
 - **Backend:** FastAPI (semantic search + Pinecone integration + GenAI & CV endpoints)
